@@ -1,0 +1,67 @@
+# Site settings
+title: Heba Abdelrazzak
+email: hebaarazzak@gmail.com
+url: https://heba-razzak.github.io
+description: "Data Scientist and Machine Learning Engineer with 5+ years of experience in fintech, ecommerce, and cloud kitchens. Expertise in Python, R, and SQL, specializing in predictive modeling, customer analytics, and business intelligence."
+keywords: "data scientist, machine learning, python, R, SQL, business intelligence, analytics, air quality prediction, customer segmentation, data visualization, Los Angeles"
+skills: "Data Scientist - Machine Learning Engineer - Analytics Professional"
+meta_author: Abdelrazzak Heba
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  location: Los Angeles, CA
+  social: Connect
+  credits: Technical Stack
+  copyright: Heba Abdelrazzak
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: http://linkedin.com/in/hrazzak
+  - title: github
+    url: http://github.com/heba-razzak
+  - title: envelope
+    url: mailto:hebaarazzak@gmail.com
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Los Angeles, CA
+
+# Credits content
+credits: 'Python • R • SQL • ML • Data Visualization • BI'
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: /projects/:title/

@@ -1,0 +1,22 @@
+---
+layout: default
+modal-id: 4
+date: 2024-03-10
+img: ai-csp.png
+alt: AI Constraint Satisfaction
+project-date: 2023
+client: University of Arizona
+category: Artificial Intelligence
+description: Implemented constraint satisfaction algorithms for solving complex scheduling and optimization problems, demonstrating practical applications of AI techniques.
+permalink: /projects/ai-csp/
+---
+
+## Project Overview
+- Implemented constraint satisfaction problem (CSP) algorithms
+- Applied to real-world scheduling problems
+- Demonstrated practical AI application
+
+### Implementation Details
+- Developed efficient constraint processing
+- Created solution visualization
+- [View Project](https://github.com/heba-razzak/AI-CSP)
