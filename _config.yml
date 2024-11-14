@@ -48,11 +48,13 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Los Angeles, CA
+  - line: Address should go here?
 
 # Credits content
-credits: 'Python • R • SQL • ML • Data Visualization • BI'
-
+credits: |
+  Python • R • SQL<br>
+  Tableau • PowerBI • Metabase<br>
+  ML • Data Visualization
 
 # Build settings
 markdown: kramdown

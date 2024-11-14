@@ -19,5 +19,3 @@ Data Scientist with a Master's in Data Science from the University of Arizona, c
 - Created custom R packages for research workflow optimization
 - Developed comprehensive business intelligence dashboards
 - Implemented customer analytics solutions improving engagement by 200%
-
-[Connect on LinkedIn](http://linkedin.com/in/hrazzak) | [View Projects on GitHub](http://github.com/heba-razzak)
