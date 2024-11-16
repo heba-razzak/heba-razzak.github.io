@@ -45,6 +45,7 @@ social:
     url: http://github.com/heba-razzak
   - title: envelope
     url: mailto:hebaarazzak@gmail.com
+    style: fa-solid
 
 # Postal address (add as many lines as necessary)
 address:

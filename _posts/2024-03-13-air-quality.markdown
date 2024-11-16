@@ -1,14 +1,15 @@
 ---
-layout: default
+layout: project
 modal-id: 1
 date: 2024-03-13
 img: air-quality.png
 alt: Air Quality Prediction
-project-date: November 2023 - Present
+project-date: 2023 - 2024
 client: University of Arizona
 category: Machine Learning & Package Development
-description: Leading an ongoing research project combining air quality prediction with custom R package development. Built comprehensive data pipeline handling 100M+ rows while creating reusable tools for the research community.
+description: Leading a research project combining air quality prediction with custom R package development. Built comprehensive data pipeline handling 100M+ rows while creating reusable tools for the research community.
 permalink: /projects/air-quality/
+title: Air Quality Prediction
 ---
 
 ## Project Overview

@@ -1,14 +1,15 @@
 ---
-layout: default
+layout: project
 modal-id: 2
 date: 2024-03-12
 img: food-bank.png
-alt: Food Bank Access Analysis
+alt: Food Bank Dashboard
 project-date: August 2023
 client: Second Harvest Food Bank
 category: Data Analytics
 description: Developed end-to-end analysis of food pantry accessibility in Orange County, combining automated data collection with interactive visualization to optimize food assistance networks.
 permalink: /projects/food-bank-analysis/
+title: Food Bank Dashboard
 ---
 
 ## Project Overview
@@ -17,11 +18,13 @@ permalink: /projects/food-bank-analysis/
 - Implemented geospatial analysis of accessibility
 
 ### Interactive Dashboard
-{% raw %}
-<div class='tableauPlaceholder' id='viz1731634670471' style='position: relative'>
-    <noscript><a href='#'>
-        <img alt='Main ' src='https://public.tableau.com/static/images/Fo/FoodBankDashboard_17284458855700/Main/1_rss.png' style='border: none' />
-    </a></noscript>
+
+<div class='tableauPlaceholder' id='viz1731634670471' style='position: relative; width: 100%; height: 800px; margin: 20px 0;'>
+    <noscript>
+        <a href='#'>
+            <img alt='Main Dashboard' src='https://public.tableau.com/static/images/Fo/FoodBankDashboard_17284458855700/Main/1_rss.png' style='border: none' />
+        </a>
+    </noscript>
     <object class='tableauViz' style='display:none;'>
         <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
         <param name='embed_code_version' value='3' />
@@ -38,24 +41,16 @@ permalink: /projects/food-bank-analysis/
         <param name='language' value='en-US' />
     </object>
 </div>
+
 <script type='text/javascript'>
     var divElement = document.getElementById('viz1731634670471');
     var vizElement = divElement.getElementsByTagName('object')[0];
-    if (divElement.offsetWidth > 800) {
-        vizElement.style.width = '1400px';
-        vizElement.style.height = '1027px';
-    } else if (divElement.offsetWidth > 500) {
-        vizElement.style.width = '1400px';
-        vizElement.style.height = '1027px';
-    } else {
-        vizElement.style.width = '100%';
-        vizElement.style.height = '1377px';
-    }
+    vizElement.style.width='100%';
+    vizElement.style.height='827px';
     var scriptElement = document.createElement('script');
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-{% endraw %}
 
 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/heba.abdelrazzak/viz/FoodBankDashboard_17284458855700/Main)
 

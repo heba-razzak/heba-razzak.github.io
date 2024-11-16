@@ -9,6 +9,7 @@ client: University of Arizona
 category: Artificial Intelligence
 description: Implemented constraint satisfaction algorithms for solving complex scheduling and optimization problems, demonstrating practical applications of AI techniques.
 permalink: /projects/ai-csp/
+title: AI Constraint Satisfaction
 ---
 
 ## Project Overview
