@@ -1,18 +1,17 @@
 ---
-layout: project
-modal-id: 2
-date: 2024-03-12
-img: food-bank.png
-alt: Food Bank Dashboard
-project-date: August 2023
-client: Second Harvest Food Bank
-category: Data Analytics
-description: Developed end-to-end analysis of food pantry accessibility in Orange County, combining automated data collection with interactive visualization to optimize food assistance networks.
-permalink: /projects/food-bank-analysis/
-title: Food Bank Dashboard
+title: "Food Pantry Accessibility Analysis"
+excerpt: "Testing"
+categories:
+  - Analytics & Visualization
+tags:
+  - r
+  - tableau
+  - dashboard
+  - foodbank
 ---
 
 ## Project Overview
+
 - Built automated pipeline for food pantry data collection and processing
 - Created interactive Tableau dashboard for service coverage analysis
 - Implemented geospatial analysis of accessibility
@@ -55,6 +54,7 @@ title: Food Bank Dashboard
 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/heba.abdelrazzak/viz/FoodBankDashboard_17284458855700/Main)
 
 ### Technical Implementation
+
 - Data Collection: R scripts for automated web scraping
 - Geospatial Analysis: R for location processing
 - Technologies: R, Tableau, Web Scraping
