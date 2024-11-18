@@ -17,9 +17,9 @@ minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon
 # Site Settings
 locale: "en-US"
 rtl: # true, false (default) # turns direction of the page into right to left for RTL languages
-title: "Data Scientist "
+title: "Data Scientist"
 title_separator: "-"
-subtitle: "Figuring it out" # site tagline that appears below site title in masthead
+subtitle: "🚧 Under Construction 🚧" # site tagline that appears below site title in masthead
 name: "Heba Abdelrazzak"
 description: "Experienced Data Scientist specializing in analytics, predictive modeling, and geospatial analysis."
 url: "https://heba-razzak.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
