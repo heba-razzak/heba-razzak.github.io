@@ -11,7 +11,7 @@ Data scientist passionate about leveraging advanced analytics and machine learni
 ## Industry Experience
 
 - 5+ years applying data science and analytics across diverse industries
-- Expertise in e-commerce, cloud kitchens, and fintech sectors
+- Expertise in e-commerce, [cloud kitchens]({% post_url 2024-11-20-the-food-lab %}), and fintech sectors
 - Consistently delivering data-driven solutions that drive measurable business growth
 - Skilled at collaborating with non-technical stakeholders to design data solutions that enhance workflows
 - Proven ability to derive actionable insights and real-world value from complex data
