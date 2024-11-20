@@ -1,10 +1,12 @@
 ---
-title: "R Package: DataOverviewR"
+title: "DataOverviewR: R Package"
+excerpt: "Easy data prep for working with big data"
 categories:
   - R Packages
 tags:
   - r
   - package-dev
+date: "2024-01-01"
 ---
 
 ## Package Overview

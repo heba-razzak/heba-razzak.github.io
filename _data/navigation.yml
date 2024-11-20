@@ -1,8 +1,10 @@
 # main links
 main:
-  - title: "About"
+  - title: "Home"
+    url: /
+  - title: "About Me"
     url: /about/
-  - title: "Posts"
+  - title: "Portfolio"
     url: /posts/
-  - title: "Tags"
+  - title: "Topics"
     url: /tags/

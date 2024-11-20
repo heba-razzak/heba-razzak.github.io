@@ -7,6 +7,7 @@ tags:
   - r
   - xgboost
   - geospatial
+date: "2024-11-01"
 ---
 
 ## Project Overview
@@ -19,7 +20,11 @@ tags:
 
 1. **Air Quality Prediction Model**
 
-   - Random Forest implementation using PurpleAir, OpenStreetMap, and Uber data
+   - Data cleansing and preparation
+   - Exploratory data analysis
+   - Geospatial operations
+   - Dataset integration
+   - Feature engineering
    - Processing 100M+ rows of environmental data
    - [View Project](https://github.com/heba-razzak/AirQualitySF)
 
@@ -31,4 +36,4 @@ tags:
 
 - **Languages**: R
 - **Key Libraries**: sf, dplyr, ggplot2, randomForest
-- **Data Sources**: PurpleAir sensors, OpenStreetMap, Uber Movement
+- **Data Sources**: PurpleAir sensors, OpenStreetMap, Uber Movement, Air Quality System (US EPA), [Wildland Fire Perimeters (CalFire)](https://www.fire.ca.gov/what-we-do/fire-resource-assessment-program/fire-perimeters), Weather (Iowa Environmental Mesonet), OpenStreetMap

@@ -10,16 +10,17 @@ Data scientist passionate about leveraging advanced analytics and machine learni
 
 ## Industry Experience
 
-- 5+ years applying data science across diverse industries
-- Expertise in fintech, ecommerce, and cloud kitchen sectors
-- Track record of delivering solutions that drive measurable business growth
-- Proven ability to translate complex data into actionable insights
+- 5+ years applying data science and analytics across diverse industries
+- Expertise in e-commerce, cloud kitchens, and fintech sectors
+- Consistently delivering data-driven solutions that drive measurable business growth
+- Skilled at collaborating with non-technical stakeholders to design data solutions that enhance workflows
+- Proven ability to derive actionable insights and real-world value from complex data
 
 ## Technical Innovation
 
 - Developed and published two R packages:
-  - purpleAirAPI: Streamlined environmental data collection
-  - DataOverviewR: Automated reporting and data analysis
+  - PurpleAirAPI: Streamlined air quality data collection
+  - DataOverviewR: Automated data cleansing and preparation
 - Created efficient research workflows and data pipelines
 - Expertise in handling large-scale datasets (100M+ rows)
 
@@ -29,7 +30,6 @@ Data scientist passionate about leveraging advanced analytics and machine learni
 - **B.S. in Actuarial Science** - The American University in Cairo
   - Minors in Business Administration and Economics
 - Self-taught Python and SQL practitioner
-- Continuously expanding technical expertise through hands-on projects
 
 ## Current Research
 
@@ -43,7 +43,7 @@ Data scientist passionate about leveraging advanced analytics and machine learni
 - **Programming:** Python, R, SQL
 - **Machine Learning:** Classification, Clustering, Neural Networks
 - **Data Visualization:** Tableau, PowerBI, ggplot2
-- **Tools & Frameworks:** Git, AWS, Docker
+- **Tools & Frameworks:** Git, AWS
 
 ## Areas of Interest
 

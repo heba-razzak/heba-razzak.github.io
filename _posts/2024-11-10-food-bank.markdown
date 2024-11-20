@@ -1,6 +1,6 @@
 ---
 title: "Food Pantry Accessibility Analysis"
-excerpt: "SHFBOC"
+excerpt: "Second Harvest Food Bank"
 categories:
   - Analytics & Visualization
 tags:
@@ -9,6 +9,7 @@ tags:
   - dashboard
   - foodbank
 classes: wide
+date: "2024-11-10"
 ---
 
 ## Project Overview
