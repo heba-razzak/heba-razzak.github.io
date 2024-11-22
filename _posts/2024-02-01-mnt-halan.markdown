@@ -1,0 +1,54 @@
+---
+title: "MNT-Halan"
+excerpt: "Built predictive models and analytics dashboards for Egypt's largest fintech serving 4M+ users. Supported $1.7B+ in loan disbursements and achieved 50% reduction in ride-hailing churn."
+date: "2024-02-01"
+categories:
+  - Work Experience
+tags:
+  - fintech
+  - dashboard
+  - sql
+  - python
+  - analytics
+  - growth
+classes: wide
+---
+
+# MNT-Halan: Scaling Egypt's Leading Fintech Ecosystem
+
+**Growth Data Analyst**
+
+_Nov 2020 - Jan 2022_
+
+## Context
+
+As a data analyst on the growth team at MNT-Halan, I worked during a pivotal transformation period where the company evolved from a ride-hailing platform into Egypt's largest digital wallet and lending provider, culminating in a $120M Series A raise. The company serves Egypt's underbanked population (70% of 100M+ people) through an integrated ecosystem of ride-hailing, digital payments, and lending services.
+
+## Technical Impact
+
+- Engineered analytics dashboards monitoring growth metrics across 4M+ customers
+- Developed predictive models for customer churn reduction and cross-selling
+- Built loan process analytics platform supporting $1.7B+ in disbursements
+- Implemented A/B testing framework for promotion optimization
+- **Tools**: Python, SQL, Data Visualization Tools, A/B Testing Frameworks
+
+## Key Business Outcomes
+
+- 50% Reduction in Ride-Hailing Churn
+- 35% Increase in Customer Satisfaction
+- Supported Growth to 1M Monthly Active Users
+- Contributed to 20x Processing Volume Growth
+
+## Industry Recognition
+
+Featured in [TechCrunch](https://techcrunch.com/2021/09/08/egyptian-fintech-mnt-halan-lands-120m-from-apis-partners-disruptech-and-others/):
+
+> "We are at the forefront of the digital revolution sweeping across Egypt, bringing together the unbanked population with our technology."
+>
+> _- TechCrunch, September 2021_
+
+## Key Learnings
+
+- Scaled analytics processes during hypergrowth phase
+- Balanced multiple stakeholder requirements in fintech environment
+- Developed solutions for underbanked customer segments

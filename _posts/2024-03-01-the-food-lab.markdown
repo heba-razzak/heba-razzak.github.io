@@ -1,7 +1,7 @@
 ---
 title: "The Food Lab"
-excerpt: "Scaling Cloud Kitchen Analytics"
-date: "2024-11-20"
+excerpt: "Led data analytics at $4.5M cloud kitchen startup, driving 60x revenue growth through ML-powered dashboards and customer analytics. Reduced brand launch time to 10 days."
+date: "2024-03-01"
 categories:
   - Work Experience
 tags:

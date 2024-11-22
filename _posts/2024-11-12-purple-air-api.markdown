@@ -1,6 +1,6 @@
 ---
 title: "PurpleAirAPI: R Package"
-excerpt: "Efficient retrieval and analysis of PurpleAir sensor data"
+excerpt: "Built an R package streamlining access to environmental sensor data. Features smart chunking, progress tracking, and comprehensive error handling for research workflows."
 date: "2024-11-12"
 categories:
   - R Packages

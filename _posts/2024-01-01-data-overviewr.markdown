@@ -1,6 +1,6 @@
 ---
 title: "DataOverviewR: R Package"
-excerpt: "Easy data prep for working with big data"
+excerpt: "R package for automated exploratory data analysis and data quality reporting. Streamlines research workflow with comprehensive data profiling."
 categories:
   - R Packages
 tags:

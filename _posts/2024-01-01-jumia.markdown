@@ -1,0 +1,57 @@
+---
+title: "Jumia: Central Analytics at Africa's Largest E-commerce Platform"
+excerpt: "Analytics & personalization specialist on Jumia's central tech team, working between Cairo, Porto and Dubai offices. Built customer journey analytics and CRM automation serving 14 African markets with 4M+ active consumers."
+date: "2024-01-01"
+categories:
+  - Work Experience
+tags:
+  - fintech
+  - dashboard
+  - sql
+  - python
+  - analytics
+  - growth
+classes: wide
+---
+
+<!-- Jumia Technologies
+Growth & Digital Transformation Analyst | Apr 2019 - Oct 2020
+
+Digital Transformation
+Fintech Innovation
+Strategic Analytics Impact
+Business Intelligence
+Led analytics for 81,000+ merchants and 4M+ active consumers across multiple African markets
+
+Fintech Transformation
+Analyzed JumiaPay expansion across Nigeria, Egypt, and 4 additional markets
+
+Key Projects & Achievements
+Digital Payments Analytics
+• Built analytics infrastructure tracking JumiaPay adoption and transaction metrics
+• Analyzed payment volume growth that doubled during implementation period
+• Developed cross-market payment performance dashboards
+Market Optimization
+• Created analytics framework for market performance evaluation
+• Developed logistics and delivery optimization models
+• Built merchant performance tracking systems
+Technical Excellence
+Data Infrastructure
+Built scalable analytics systems for pan-African operations
+
+Payment Analytics
+Developed fintech performance metrics and dashboards
+
+Growth Metrics
+Created consumer behavior and merchant performance analytics
+
+Unique Market Experience
+Gained invaluable experience in digital transformation, fintech integration, and e-commerce analytics during a pivotal period of African e-commerce evolution. Developed expertise in emerging market challenges and opportunities while working with a massive scale of 4M+ active consumers. -->
+
+<!-- reporting to Dubai - Central team
+team in portugal - Porto Tech Center
+first analyst based in egypt
+
+[Medium](https://medium.com/@goodbuyghana/the-rise-and-fall-of-jumia-in-africa-6d6d6a37a89a)
+
+[Forbes](https://www.forbes.com/sites/korihale/2020/04/23/jumia-africas-failed-unicorn-is-hemorrhaging-millions/) -->

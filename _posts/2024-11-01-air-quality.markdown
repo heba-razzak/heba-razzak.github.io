@@ -1,6 +1,6 @@
 ---
-title: "Air Quality Prediction"
-excerpt: "Machine Learning project"
+title: "Predicting Air Quality Amid Bay Area Wildfires"
+excerpt: "Machine learning project processing 100M+ rows of environmental data. Built predictive models and two custom R packages for research workflow optimization."
 categories:
   - Machine Learning
 tags:
@@ -36,4 +36,4 @@ date: "2024-11-01"
 
 - **Languages**: R
 - **Key Libraries**: sf, dplyr, ggplot2, randomForest
-- **Data Sources**: PurpleAir sensors, OpenStreetMap, Uber Movement, Air Quality System (US EPA), [Wildland Fire Perimeters (CalFire)](https://www.fire.ca.gov/what-we-do/fire-resource-assessment-program/fire-perimeters), Weather (Iowa Environmental Mesonet), OpenStreetMap
+- **Data Sources**: [PurpleAir sensors](https://www2.purpleair.com/), [OpenStreetMap](https://www.openstreetmap.org/), [Uber Movement](https://www.uber.com/newsroom/movement-street-speeds/), [Air Quality System (US EPA)](https://www.epa.gov/aqs), [Wildland Fire Perimeters (CalFire)](https://www.fire.ca.gov/what-we-do/fire-resource-assessment-program/fire-perimeters), [Weather (Iowa Environmental Mesonet)](https://mesonet.agron.iastate.edu/)
