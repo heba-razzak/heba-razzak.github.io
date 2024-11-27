@@ -1,6 +1,6 @@
 ---
 title: "AI Constraint Satisfaction"
-excerpt: "Artificial Intelligence Course Project"
+excerpt: "Academic project: developed smart scheduling algorithms for resource allocation."
 desc:
 categories:
   - Academic
@@ -10,7 +10,7 @@ tags:
 date: "2024-01-02"
 ---
 
-## Project Overview
+<!-- ## Project Overview
 
 - Implemented constraint satisfaction problem (CSP) algorithms
 - Applied to real-world scheduling problems
@@ -20,4 +20,4 @@ date: "2024-01-02"
 
 - Developed efficient constraint processing
 - Created solution visualization
-- [View Project](https://github.com/heba-razzak/AI-CSP)
+- [View Project](https://github.com/heba-razzak/AI-CSP) -->

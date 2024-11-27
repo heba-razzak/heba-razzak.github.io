@@ -1,6 +1,6 @@
 ---
-title: "MNT-Halan"
-excerpt: "Built predictive models and analytics dashboards for Egypt's largest fintech serving 4M+ users. Supported $1.7B+ in loan disbursements and achieved 50% reduction in ride-hailing churn."
+title: "MNT-Halan: Scaling Egypt's Leading Fintech"
+excerpt: "Cut churn by 50% through data-driven strategies."
 date: "2024-02-01"
 categories:
   - Work Experience

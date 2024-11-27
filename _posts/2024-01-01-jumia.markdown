@@ -1,6 +1,6 @@
 ---
-title: "Jumia: Central Analytics at Africa's Largest E-commerce Platform"
-excerpt: "Analytics & personalization specialist on Jumia's central tech team, working between Cairo, Porto and Dubai offices. Built customer journey analytics and CRM automation serving 14 African markets with 4M+ active consumers."
+title: "Jumia: E-commerce Analytics"
+excerpt: "Built CRM tools serving 14 markets and 4M+ users."
 date: "2024-01-01"
 categories:
   - Work Experience

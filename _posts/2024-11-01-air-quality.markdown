@@ -1,6 +1,6 @@
 ---
-title: "Predicting Air Quality Amid Bay Area Wildfires"
-excerpt: "Machine learning project processing 100M+ rows of environmental data. Built predictive models and two custom R packages for research workflow optimization."
+title: "Predicting Air Quality in Wildfire Zones"
+excerpt: "Processed 100M+ rows to build predictive ML models."
 categories:
   - Machine Learning
 tags:

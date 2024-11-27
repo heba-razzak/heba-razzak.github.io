@@ -1,6 +1,6 @@
 ---
-title: "Food Pantry Accessibility Analysis"
-excerpt: "Interactive Tableau dashboard for Second Harvest Food Bank analyzing pantry coverage and accessibility. Features automated data pipeline and geospatial analysis."
+title: "Food Pantry Accessibility Map"
+excerpt: "Interactive Tableau dashboard with geospatial insights."
 categories:
   - Analytics & Visualization
 tags:

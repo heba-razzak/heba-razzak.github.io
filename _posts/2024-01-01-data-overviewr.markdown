@@ -1,6 +1,6 @@
 ---
 title: "DataOverviewR: R Package"
-excerpt: "R package for automated exploratory data analysis and data quality reporting. Streamlines research workflow with comprehensive data profiling."
+excerpt: "R package for effortless EDA and quality reporting."
 categories:
   - R Packages
 tags:
@@ -9,7 +9,7 @@ tags:
 date: "2024-01-01"
 ---
 
-## Package Overview
+<!-- ## Package Overview
 
 ### DataOverviewR
 
@@ -22,4 +22,4 @@ date: "2024-01-01"
 
 - **Language**: R
 - **Testing**: Unit tests and integration tests
-- **Documentation**: Comprehensive vignettes and examples
+- **Documentation**: Comprehensive vignettes and examples -->
