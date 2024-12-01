@@ -14,8 +14,6 @@ tags:
 classes: wide
 ---
 
-# MNT-Halan: Scaling Egypt's Leading Fintech Ecosystem
-
 **Growth Data Analyst**
 
 _Nov 2020 - Jan 2022_

@@ -1,5 +1,5 @@
 ---
-title: "Food Pantry Accessibility Map"
+title: "Food Pantry Accessibility Analysis"
 excerpt: "Interactive Tableau dashboard with geospatial insights."
 categories:
   - Analytics & Visualization
@@ -7,18 +7,25 @@ tags:
   - r
   - tableau
   - dashboard
-  - foodbank
+  - food bank
+  - web scraping
+
 classes: wide
 date: "2024-11-10"
 ---
 
 ## Project Overview
 
-- Built automated pipeline for food pantry data collection and processing
-- Created interactive Tableau dashboard for service coverage analysis
-- Implemented geospatial analysis of accessibility
+An independent data analysis project examining food insecurity and pantry accessibility in Orange County. Using publicly available data, I created a comprehensive dashboard to visualize the relationship between food assistance needs and pantry availability across different regions.
 
-### Interactive Dashboard
+## Project Goals
+
+- Map food security resources across Orange County
+- Identify gaps in pantry accessibility
+- Analyze distribution of services relative to need
+- Create actionable insights for resource allocation
+
+## Interactive Dashboard
 
 <div class='tableauPlaceholder' id='viz1732004704114' style='position: relative'>
   <noscript>
@@ -62,10 +69,54 @@ date: "2024-11-10"
 
 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/heba.abdelrazzak/viz/FoodBankDashboard_17284458855700/Main)
 
-### Technical Implementation
+## Key Metrics Analyzed
 
-- Data Collection: R scripts for automated web scraping
-- Geospatial Analysis: R for location processing
-- Technologies: R, Tableau, Web Scraping
+- Coverage of 256 Food Pantries and 43 TEFAP Distribution Centers
+- Service to 66,784 Food-Assisted Households (6% of total households)
+- 5-mile radius accessibility analysis
+- Food pantry density per 1,000 food-assisted households
+- Geographic distribution patterns by census tract
 
-[View Project Documentation](https://github.com/heba-razzak/FoodBankAnalysis)
+## Data Sources & Methodology
+
+- U.S. Census Bureau American Community Survey (2017-2021 5-Year Estimates)
+- Publicly available food pantry location data
+- TEFAP distribution center information
+
+## Technical Implementation
+
+### Tools Used
+
+- **Data Processing**: R for geocoding and spatial analysis
+- **Visualization**: Tableau
+- **Geospatial Analysis**: Census tract and block group level analysis
+- **Libraries**: tidycensus, sf, dplyr
+
+### Key Features
+
+1. **Interactive Map View**
+
+   - Color-coded regions showing pantry density
+   - Overlay of distribution locations
+   - 5-mile radius coverage analysis
+
+2. **Accessibility Metrics**
+   - Pantries per 1,000 food-assisted households
+   - Block group level analysis
+   - Census tract rankings
+
+## Impact & Insights
+
+- Identified underserved areas with high food assistance needs
+- Mapped geographic disparities in resource distribution
+- Created data-driven foundation for strategic planning
+- Developed scalable analysis framework
+
+## Future Enhancements
+
+- Integration of public transportation routes
+- Temporal analysis of pantry operating hours
+- Demographic overlay for deeper insights
+- Mobile accessibility optimization
+
+[View Project on GitHub](https://github.com/heba-razzak/FoodBankAnalysis)

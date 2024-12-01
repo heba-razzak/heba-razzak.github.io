@@ -13,8 +13,6 @@ tags:
 classes: wide
 ---
 
-## Scaling Cloud Kitchen Analytics
-
 **Founding Data Analyst**
 
 _Jan 2022 - Aug 2022_
@@ -32,6 +30,7 @@ As the _first data hire_ at The Food Lab, a **$4.5M pre-seed** cloud kitchen sta
 - Built investor-facing dashboard integrating key financial metrics and growth insights.
 - Implemented performance monitoring system reducing SLA breaches by 15%
 - Developed gamified partner dashboard driving consistent goal achievement
+- Built web scraping tool to optimize analytics infrastructure and dashboard performance
 - **Tools**: Python, SQL, Metabase, AirByte, GitHub, VSCode
 
 ## Key Business Outcomes
