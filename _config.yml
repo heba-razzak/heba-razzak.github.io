@@ -115,15 +115,13 @@ author:
   name: "Heba Abdelrazzak"
   avatar: "/assets/img/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Data scientist who turns unsolvable problems into creative custom solutions
-<br>
+<br><br>
 •	**Nerdy interest:** Decoding human behavior through customer data or<br>asking Claude to analyze my social life
-<br>
-•	**Latest flex:** 4.0 GPA in my MS in Data Science (while working part-time on research, nbd)
-<br>
+<br><br>
 •	**CEO’s review:** “What a legend!...The impact you left on TFL still exists today”
-<br>
+<br><br>
 •	**Fun fact:** Sewed my dog’s cap and gown for an Elle Woods grad moment
-<br>
+<br><br>
 •	**Current challenge:** Beating the odds to land my dream job in tech"
 # 
   location: "Los Angeles, CA"
@@ -132,18 +130,18 @@ author:
     - label: "Book a coffee chat"
       icon: "fas fa-fw fa-link"
       url: "https://calendar.app.google/FH9je67e1wmmg41v5"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/hrazzak/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/heba-razzak/"
+    # - label: "LinkedIn"
+    #   icon: "fab fa-fw fa-linkedin"
+    #   url: "https://linkedin.com/in/hrazzak/"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/heba-razzak/"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/om.boujee/"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:hebaarazzak@gmail.com"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "mailto:hebaarazzak@gmail.com"
 
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
