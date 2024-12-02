@@ -10,7 +10,6 @@ tags:
   - sql
   - python
   - startup
-classes: wide
 ---
 
 **Founding Data Analyst**

@@ -4,6 +4,7 @@ title: "About Me"
 excerpt: "Get to know Heba Abdelrazzak — a data scientist turning complex data into actionable insights."
 last_modified_at: 2024-11-17
 toc: true
+author_profile: false
 ---
 
 Data scientist passionate about leveraging advanced analytics and machine learning to solve real-world problems.

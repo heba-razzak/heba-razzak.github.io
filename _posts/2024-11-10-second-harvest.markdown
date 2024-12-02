@@ -9,8 +9,7 @@ tags:
   - dashboard
   - food bank
   - web scraping
-
-classes: wide
+toc: true
 date: "2024-11-10"
 ---
 
@@ -27,7 +26,7 @@ An independent data analysis project examining food insecurity and pantry access
 
 ## Interactive Dashboard
 
-<div class='tableauPlaceholder' id='viz1732004704114' style='position: relative'>
+<div class='tableauPlaceholder' id='viz1732004704114' style='position: relative;'>
   <noscript>
     <a href='#'>
       <img alt='Main ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fo&#47;FoodBank_Portfolio&#47;Main&#47;1_rss.png' style='border: none' />
@@ -52,16 +51,8 @@ An independent data analysis project examining food insecurity and pantry access
 <script type='text/javascript'>
   var divElement = document.getElementById('viz1732004704114');
   var vizElement = divElement.getElementsByTagName('object')[0];
-  if ( divElement.offsetWidth > 800 ) {
-    vizElement.style.width='1000px';
-    vizElement.style.height='827px';
-  } else if ( divElement.offsetWidth > 500 ) {
-    vizElement.style.width='1000px';
-    vizElement.style.height='827px';
-  } else {
-    vizElement.style.width='100%';
-    vizElement.style.height='1227px';
-  }
+  vizElement.style.width='1000px';
+  vizElement.style.height='1000px';
   var scriptElement = document.createElement('script');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);

@@ -114,10 +114,24 @@ analytics:
 author:
   name: "Heba Abdelrazzak"
   avatar: "/assets/img/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Creative data scientist bridging technical innovation and business impact across global markets"
+  bio: "Data scientist who turns unsolvable problems into creative custom solutions
+<br>
+•	**Nerdy interest:** Decoding human behavior through customer data or<br>asking Claude to analyze my social life
+<br>
+•	**Latest flex:** 4.0 GPA in my MS in Data Science (while working part-time on research, nbd)
+<br>
+•	**CEO’s review:** “What a legend!...The impact you left on TFL still exists today”
+<br>
+•	**Fun fact:** Sewed my dog’s cap and gown for an Elle Woods grad moment
+<br>
+•	**Current challenge:** Beating the odds to land my dream job in tech"
+# 
   location: "Los Angeles, CA"
   email:
   links:
+    - label: "Book a coffee chat"
+      icon: "fas fa-fw fa-link"
+      url: "https://calendar.app.google/FH9je67e1wmmg41v5"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/hrazzak/"
@@ -129,7 +143,7 @@ author:
     #   url: "https://instagram.com/om.boujee/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:hebaarazzak@email.com"
+      url: "mailto:hebaarazzak@gmail.com"
 
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
@@ -155,7 +169,7 @@ footer:
     #   url: "https://instagram.com/om.boujee/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:hebaarazzak@email.com"
+      url: "mailto:hebaarazzak@gmail.com"
 
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
@@ -329,7 +343,11 @@ defaults:
       comments: # true
       share: true
       related: true
-      classes: wide
+      toc: true
+      toc_sticky: true
+      sidebar:
+        nav: "docs"
+      # classes: wide
   # _pages
   - scope:
       path: "_pages"
