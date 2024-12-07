@@ -1,7 +1,7 @@
 ---
-title: "The Food Lab: Cloud Kitchen Analytics"
+title: "Cloud Kitchen Analytics @ TFL"
 excerpt: "Founding data analyst at $4.5M cloud kitchen startup."
-date: "2024-03-01"
+date: "2024-12-01"
 categories:
   - Work Experience
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Food Pantry Accessibility Analysis"
-excerpt: "Interactive Tableau dashboard with geospatial insights."
+excerpt: "Tableau dashboard with geospatial insights."
 categories:
   - Analytics & Visualization
 tags:
@@ -10,7 +10,7 @@ tags:
   - food bank
   - web scraping
 toc: true
-date: "2024-11-10"
+date: "2024-11-13"
 ---
 
 ## Project Overview

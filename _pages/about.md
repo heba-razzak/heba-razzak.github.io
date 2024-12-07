@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About Me"
-excerpt: "Get to know Heba Abdelrazzak — a data scientist turning complex data into actionable insights."
+excerpt: ""
 last_modified_at: 2024-11-17
 toc: true
 author_profile: false
@@ -12,7 +12,7 @@ Data scientist passionate about leveraging advanced analytics and machine learni
 ## Industry Experience
 
 - 5+ years applying data science and analytics across diverse industries
-- Expertise in e-commerce, [cloud kitchens]({% post_url 2024-03-01-the-food-lab %}), and fintech sectors
+- Expertise in [e-commerce]({% post_url 2024-01-01-jumia %}), [cloud kitchens]({% post_url 2024-12-01-the-food-lab %}), and [fintech](% post_url 2024-11-05-mnt-halan %) sectors
 - Consistently delivering data-driven solutions that drive measurable business growth
 - Skilled at collaborating with non-technical stakeholders to design data solutions that enhance workflows
 - Proven ability to derive actionable insights and real-world value from complex data
@@ -25,12 +25,11 @@ Data scientist passionate about leveraging advanced analytics and machine learni
 - Created efficient research workflows and data pipelines
 - Expertise in handling large-scale datasets (100M+ rows)
 
-## Education & Continuous Learning
+## Education
 
 - **M.S. in Data Science** - University of Arizona (4.0 GPA)
 - **B.S. in Actuarial Science** - The American University in Cairo
   - Minors in Business Administration and Economics
-- Self-taught Python and SQL practitioner
 
 ## Current Research
 

@@ -1,7 +1,7 @@
 ---
-title: "MNT-Halan: Scaling Egypt's Leading Fintech"
+title: "Scaling Egypt's Leading Fintech @ MNT-Halan"
 excerpt: "Cut churn by 50% through data-driven strategies."
-date: "2024-02-01"
+date: "2024-11-05"
 categories:
   - Work Experience
 tags:

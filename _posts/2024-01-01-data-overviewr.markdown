@@ -1,5 +1,5 @@
 ---
-title: "DataOverviewR: R Package"
+title: "R Package: DataOverviewR"
 excerpt: "R package for effortless EDA and quality reporting."
 categories:
   - R Packages

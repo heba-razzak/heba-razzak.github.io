@@ -1,6 +1,6 @@
 ---
-title: "PurpleAirAPI: R Package"
-excerpt: "CRAN-published package for environmental sensor data access and analysis."
+title: "R Package: PurpleAirAPI"
+excerpt: "CRAN-published package for environmental data analysis."
 date: "2024-11-12"
 categories:
   - R Packages
