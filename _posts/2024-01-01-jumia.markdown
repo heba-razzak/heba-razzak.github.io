@@ -1,5 +1,5 @@
 ---
-title: "Jumia: E-commerce Analytics"
+title: "E-commerce Analytics @ Jumia"
 excerpt: "Built CRM tools serving 14 markets and 4M+ users."
 date: "2024-01-01"
 categories:

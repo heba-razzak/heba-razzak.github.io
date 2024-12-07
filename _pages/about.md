@@ -7,50 +7,32 @@ toc: true
 author_profile: false
 ---
 
-Data scientist passionate about leveraging advanced analytics and machine learning to solve real-world problems.
+I transform complex business challenges into measurable wins through data-driven solutions. With 5+ years of experience spanning [fintech]({% post_url 2024-11-05-mnt-halan %}), e-commerce, and [cloud kitchens]({% post_url 2024-12-01-the-food-lab %}), I've helped scale startups to multi-million dollar valuations and cut customer churn in half. My superpower? Making complex data insights actionable for everyone - from CEOs making strategic decisions to operations teams improving daily workflows.
 
-## Industry Experience
+## What Makes Me Different:
 
-- 5+ years applying data science and analytics across diverse industries
-- Expertise in [e-commerce]({% post_url 2024-01-01-jumia %}), [cloud kitchens]({% post_url 2024-12-01-the-food-lab %}), and [fintech](% post_url 2024-11-05-mnt-halan %) sectors
-- Consistently delivering data-driven solutions that drive measurable business growth
-- Skilled at collaborating with non-technical stakeholders to design data solutions that enhance workflows
-- Proven ability to derive actionable insights and real-world value from complex data
+- I create data cultures from scratch. At a cloud kitchen startup, I turned raw data into a decision-making engine that directly contributed to securing a **[$4.5M pre-seed raise](https://techcrunch.com/2022/04/18/the-food-lab-an-egyptian-cloud-kitchen-provider-raises-4-5m-pre-seed-for-expansion/)**.
+- I thrive on solving ‘impossible’ problems—cutting ride-hailing churn by 50%, processing 100M+ environmental data points, and finding creative solutions in high-stakes environments.
+- I speak every team’s language. By combining curiosity with clear communication, I build solutions that resonate across diverse perspectives and deliver measurable impact.
 
-## Technical Innovation
+## Latest Milestones
 
-- Developed and published two R packages:
-  - PurpleAirAPI: Streamlined air quality data collection
-  - DataOverviewR: Automated data cleansing and preparation
-- Created efficient research workflows and data pipelines
-- Expertise in handling large-scale datasets (100M+ rows)
+- M.S. Data Science, University of Arizona (4.0 GPA) - May 2024
+- Published [R package]({% post_url 2024-11-12-purple-air-api %}) on CRAN, making environmental data analysis more accessible
+- Independent project on food pantry accessibility [analysis]({% post_url 2024-11-13-second-harvest %}) optimizing resource allocation in Orange County
+- Tutored an actuarial scientist transitioning from Excel to Python, equipping their team with enhanced technical skills and more efficient workflows
 
-## Education
+## Technical Foundation:
 
-- **M.S. in Data Science** - University of Arizona (4.0 GPA)
-- **B.S. in Actuarial Science** - The American University in Cairo
-  - Minors in Business Administration and Economics
+| **Tool**        | **Number of Years** |
+| --------------- | ------------------: |
+| Python          |                  8+ |
+| SQL             |                  8+ |
+| Tableau/PowerBI |                  4+ |
+| R               |                  3+ |
 
-## Current Research
+### Let's Connect!
 
-- Investigating machine learning applications in environmental monitoring
-- Developing predictive models for air quality assessment
-- Combining spatial analysis with traffic pattern data
-- Creating automated data processing pipelines
+Always excited to discuss creative data solutions over [coffee](https://calendar.app.google/FH9je67e1wmmg41v5) ☕
 
-## Technical Stack
-
-- **Programming:** Python, R, SQL
-- **Machine Learning:** Classification, Clustering, Neural Networks
-- **Data Visualization:** Tableau, PowerBI, ggplot2
-- **Tools & Frameworks:** Git, AWS
-
-## Areas of Interest
-
-- Ethical AI and Responsible Machine Learning
-- Environmental Data Science
-- Automated Reporting Systems
-- Business Intelligence
-- Data-Driven Decision Making
-
-[View My Projects on GitHub](https://github.com/heba-razzak) | [Connect on LinkedIn](http://linkedin.com/in/hrazzak)
+[Connect on LinkedIn](http://linkedin.com/in/hrazzak)

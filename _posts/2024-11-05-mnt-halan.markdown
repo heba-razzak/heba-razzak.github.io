@@ -21,6 +21,14 @@ _Nov 2020 - Jan 2022_
 
 As a data analyst on the growth team at MNT-Halan, I worked during a pivotal transformation period where the company evolved from a ride-hailing platform into Egypt's largest digital wallet and lending provider, culminating in a $120M Series A raise. The company serves Egypt's underbanked population (70% of 100M+ people) through an integrated ecosystem of ride-hailing, digital payments, and lending services.
 
+## Industry Recognition
+
+Featured in [TechCrunch](https://techcrunch.com/2021/09/08/egyptian-fintech-mnt-halan-lands-120m-from-apis-partners-disruptech-and-others/):
+
+> "We are at the forefront of the digital revolution sweeping across Egypt, bringing together the unbanked population with our technology."
+>
+> _- TechCrunch, September 2021_
+
 ## Technical Impact
 
 - Engineered analytics dashboards monitoring growth metrics across 4M+ customers
@@ -35,14 +43,6 @@ As a data analyst on the growth team at MNT-Halan, I worked during a pivotal tra
 - 35% Increase in Customer Satisfaction
 - Supported Growth to 1M Monthly Active Users
 - Contributed to 20x Processing Volume Growth
-
-## Industry Recognition
-
-Featured in [TechCrunch](https://techcrunch.com/2021/09/08/egyptian-fintech-mnt-halan-lands-120m-from-apis-partners-disruptech-and-others/):
-
-> "We are at the forefront of the digital revolution sweeping across Egypt, bringing together the unbanked population with our technology."
->
-> _- TechCrunch, September 2021_
 
 ## Key Learnings
 

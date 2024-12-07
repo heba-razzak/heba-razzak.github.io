@@ -20,6 +20,14 @@ _Jan 2022 - Aug 2022_
 
 As the _first data hire_ at The Food Lab, a **$4.5M pre-seed** cloud kitchen startup, I built the foundation for _data-driven decision-making_ in a fast-paced, resource-constrained environment. My work directly contributed to scaling operations to serve 175,000+ customers, driving **25-35% monthly revenue growth** and reducing new brand launch time to **10 days**.
 
+## Industry Recognition
+
+Featured in [TechCrunch](https://techcrunch.com/2022/04/18/the-food-lab-an-egyptian-cloud-kitchen-provider-raises-4-5m-pre-seed-for-expansion/) and [Forbes Middle East](https://www.forbesmiddleeast.com/innovation/startups/egypt-based-startup-the-food-lab-raises-%2445m-in-pre-seed-funding-round) for innovative data-centric approach to cloud kitchen optimization:
+
+> "The Food Lab's virtual brand consultant — essentially a data-centric dashboard powered by machine learning — democratizes data and provides granular information to these brands regarding their operations and finances."
+>
+> _- TechCrunch, April 2022_
+
 ## Technical Impact
 
 - Engineered ML-powered analytics dashboards for restaurant operations and financial planning
@@ -31,20 +39,6 @@ As the _first data hire_ at The Food Lab, a **$4.5M pre-seed** cloud kitchen sta
 - Developed gamified partner dashboard driving consistent goal achievement
 - Built web scraping tool to optimize analytics infrastructure and dashboard performance
 - **Tools**: Python, SQL, Metabase, AirByte, GitHub, VSCode
-
-## Key Business Outcomes
-
-- 25-35% Monthly Revenue Growth
-- 10 Days New Brand Launch Time
-- 60x Revenue Growth Since Launch
-
-## Industry Recognition
-
-Featured in [TechCrunch](https://techcrunch.com/2022/04/18/the-food-lab-an-egyptian-cloud-kitchen-provider-raises-4-5m-pre-seed-for-expansion/) and [Forbes Middle East](https://www.forbesmiddleeast.com/innovation/startups/egypt-based-startup-the-food-lab-raises-%2445m-in-pre-seed-funding-round) for innovative data-centric approach to cloud kitchen optimization:
-
-> "The Food Lab's virtual brand consultant — essentially a data-centric dashboard powered by machine learning — democratizes data and provides granular information to these brands regarding their operations and finances."
->
-> _- TechCrunch, April 2022_
 
 ## Key Learnings
 
