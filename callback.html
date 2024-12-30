@@ -10,15 +10,16 @@ permalink: /callback/
   </head>
   <body>
     <script>
-      // Extract the 'code' from the URL
+      // Extract 'code' and 'state' from URL
       const urlParams = new URLSearchParams(window.location.search);
       const code = urlParams.get("code");
+      const state = urlParams.get("state");
 
       if (code) {
-        // Display the code or send it to your server for further processing
         console.log("Authorization Code:", code);
         alert("Authorization Code: " + code);
       } else {
+        console.error("No authorization code found!");
         alert("No authorization code found!");
       }
     </script>
