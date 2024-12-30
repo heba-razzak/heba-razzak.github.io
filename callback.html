@@ -1,0 +1,27 @@
+---
+layout: none
+permalink: /callback/
+---
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>LinkedIn OAuth Callback</title>
+  </head>
+  <body>
+    <script>
+      // Extract the 'code' from the URL
+      const urlParams = new URLSearchParams(window.location.search);
+      const code = urlParams.get("code");
+
+      if (code) {
+        // Display the code or send it to your server for further processing
+        console.log("Authorization Code:", code);
+        alert("Authorization Code: " + code);
+      } else {
+        alert("No authorization code found!");
+      }
+    </script>
+    <p>LinkedIn OAuth callback handled. You can close this page.</p>
+  </body>
+</html>
