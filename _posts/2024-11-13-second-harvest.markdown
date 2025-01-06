@@ -61,6 +61,48 @@ date: "2024-11-13"
 
 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/heba.abdelrazzak/viz/FoodBankDashboard_17284458855700/Main)
 
+## Analysis Overview
+
+Using Census Bureau data and food pantry locations, I developed an analytical framework to optimize food assistance resource allocation in Orange County. The analysis identified opportunities to better serve 464 households currently lacking local pantry access, while providing actionable insights for strategic expansion.
+
+## The Challenge
+
+Food banks face a complex operational challenge: How do you optimally place food pantries to serve the most food-insecure households? The problem requires balancing multiple factors:
+
+- Geographic distribution of 66,784 food-assisted households
+- Travel distance limitations for residents
+- Resource allocation efficiency
+- Coverage gaps in current network
+
+## Analytical Approach
+
+### Data Integration
+
+1. **Census Data Analysis**
+
+   - Extracted demographic and economic indicators
+   - Identified food-assisted household concentrations
+   - Analyzed income distribution patterns
+
+2. **Geographic Coverage Assessment**
+   - Mapped 256 existing food pantries and 43 TEFAP centers
+   - Developed 5-mile radius accessibility metric
+   - Created standardized coverage density measurements
+
+### Innovation in Metrics
+
+- Designed "pantries per 1,000 food-assisted households" metric to standardize comparisons
+- Incorporated travel distance analysis for accessibility assessment
+- Created weighted impact scores combining multiple factors
+
+## Priority Areas
+
+Three high-impact locations identified:
+
+- Census Tract 524.22: 229 households with only 5 pantries within 5-mile radius
+- Census Tract 524.23: 204 households averaging 3.57 miles to nearest pantry
+- Census Tract 994.19: Strategic location could serve 6,223 households within 5-mile radius
+
 ## Technical Approach
 
 **Tools**:
@@ -74,14 +116,6 @@ date: "2024-11-13"
 - 256 Food Pantries
 - 43 TEFAP Distribution Centers
 - Census data (2017-2021)
-
-## Priority Areas
-
-Three high-impact locations identified:
-
-- Census Tract 524.22: 229 households, limited pantry access
-- Census Tract 524.23: 204 households, 3.57 miles to nearest pantry
-- Census Tract 994.19: Potential to serve 6,223 households (within 5mi)
 
 [View Project Documentation](https://github.com/heba-razzak/FoodBankAnalysis)
 
