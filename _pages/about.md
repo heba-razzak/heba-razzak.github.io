@@ -33,6 +33,6 @@ I transform complex business challenges into measurable wins through data-driven
 
 ### Let's Connect!
 
-Always excited to discuss creative data solutions over [coffee](https://calendar.app.google/FH9je67e1wmmg41v5) ☕
+Always excited to discuss creative data solutions over [coffee](https://calendly.com/hebaarazzak/30min) ☕
 
 [Connect on LinkedIn](http://linkedin.com/in/hrazzak)
