@@ -77,8 +77,6 @@ Common sources include:
 
 The Air Quality Index (AQI) is a standardized scale that helps translate pollution levels into something easy to understand.
 
-While official AQI uses 24-hour averages, this map shows recent 30-minute readings to help you stay informed about rapid changes in air quality.
-
 <div class="aqi-table" style="margin: 20px 0;">
     <img 
         src="/assets/img/AQI.png" 
@@ -87,7 +85,7 @@ While official AQI uses 24-hour averages, this map shows recent 30-minute readin
     >
 </div>
 
-_Why 30-minute readings? During wildfire events, air quality can change quickly. Recent readings help you make informed decisions about outdoor activities._
+\*While official AQI uses 24-hour averages, this map shows recent 30-minute readings to help you stay informed about rapid changes in air quality.
 
 ## Resources
 
