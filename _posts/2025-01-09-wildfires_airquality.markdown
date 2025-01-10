@@ -19,7 +19,7 @@ Last updated: {% include latest_update.txt %} -->
     .then(response => response.text()) // Parse the response as plain text
     .then(data => {
       // Update the div with the fetched text
-      document.getElementById("latest-update").innerText = `Last updated: ${data}`;
+      document.getElementById("latest-update").innerText = `Updated: ${data}`;
     })
     .catch(error => {
       // Handle errors gracefully
