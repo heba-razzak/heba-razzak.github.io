@@ -4,6 +4,9 @@ excerpt: "Wildfire and Air Quality maps for Southern California"
 date: "2025-01-09"
 header:
   teaser: "/assets/img/wildfire-teaser.png"
+redirect_from:
+  - /wildfires/
+  - /wildfires_airquality/
 ---
 
 <div style="font-size: 0.9em;" markdown="1">
