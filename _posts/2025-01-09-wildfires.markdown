@@ -8,8 +8,25 @@ header:
 
 <div style="font-size: 0.9em;" markdown="1">
 
-Last updated:
-{% include latest_update.txt %}
+<!-- Getting text from local file:
+Last updated: {% include latest_update.txt %} -->
+
+<div id="latest-update">Loading...</div>
+
+<script>
+  // Fetch the text content from the external file
+  fetch("https://heba-razzak.github.io/wildfires/maps/latest_update.txt")
+    .then(response => response.text()) // Parse the response as plain text
+    .then(data => {
+      // Update the div with the fetched text
+      document.getElementById("latest-update").innerText = `Last updated: ${data}`;
+    })
+    .catch(error => {
+      // Handle errors gracefully
+      document.getElementById("latest-update").innerText = "Last updated: Unable to fetch update.";
+      console.error("Error fetching latest update:", error);
+    });
+</script>
 
 ## Air Quality Map
 
@@ -17,7 +34,7 @@ This map shows air quality in Los Angeles based on data from outdoor PurpleAir s
 
 <div class="map-container" style="position: relative; margin: 20px 0;">
     <iframe 
-        src="/assets/maps/purpleair-map.html" 
+        src="https://heba-razzak.github.io/wildfires/maps/purpleair-map.html" 
         width="100%" 
         height="600" 
         frameborder="0"
