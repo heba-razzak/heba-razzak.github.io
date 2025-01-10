@@ -15,7 +15,7 @@ Last updated: {% include latest_update.txt %} -->
 
 <script>
   // Fetch the text content from the external file
-  fetch("https://heba-razzak.github.io/wildfires/maps/latest_update.txt")
+  fetch("https://heba-razzak.github.io/wildfire-repo/maps/latest_update.txt")
     .then(response => response.text()) // Parse the response as plain text
     .then(data => {
       // Update the div with the fetched text
@@ -34,7 +34,7 @@ This map shows air quality in Los Angeles based on data from outdoor PurpleAir s
 
 <div class="map-container" style="position: relative; margin: 20px 0;">
     <iframe 
-        src="https://heba-razzak.github.io/wildfires/maps/purpleair-map.html" 
+        src="https://heba-razzak.github.io/wildfire-repo/maps/purpleair-map.html" 
         width="100%" 
         height="600" 
         frameborder="0"
