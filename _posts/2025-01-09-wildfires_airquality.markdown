@@ -63,7 +63,7 @@ If you see many <span style="color: #ff7e00;"><b>orange</b></span>, <span style=
 
 ### **How often is this updated?**
 
-Currently, updates are done manually, but I'm working on automating the process for hourly updates soon.
+This page is updated automatically every hour, ensuring near real-time information.
 
 ### **What’s the purpose of this page?**
 
@@ -82,6 +82,7 @@ The air quality data comes from affordable, community-installed [PurpleAir](http
 - Adding wildfire perimeters
 - Visualizing wind direction and speed
 - Integrating EPA air quality data
+- Timelapse visualization of 2025 LA wildfires
 
 ## Additional Information
 
